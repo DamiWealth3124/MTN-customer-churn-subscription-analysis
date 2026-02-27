@@ -25,17 +25,17 @@ Customer Volume: 974 total customers
 
 **Key Metrics Tracked**
 
-Total Customers
+-Total Customers
 
-Total Revenue
+-Total Revenue
 
-Total Purchases
+-Total Purchases
 
-Average Customer Tenure (months)
+-Average Customer Tenure (months)
 
-Average Satisfaction Rate
+-Average Satisfaction Rate
 
-Churned vs Retained Customers
+-Churned vs Retained Customers
 
 **Tools Used**
 
@@ -47,17 +47,17 @@ Data Visualization – Interactive charts, filters, and drill-downs
 
 **Data Cleaning & Preparation**
 
-The dataset was prepared to ensure accurate analysis and reporting by:
+- The dataset was prepared to ensure accurate analysis and reporting by:
 
-Removing duplicate customer records
+- Removing duplicate customer records
 
-Standardizing categorical values (subscription plans, devices, states)
+- Standardizing categorical values (subscription plans, devices, states)
 
-Handling missing values in tenure, revenue, and satisfaction fields
+- Handling missing values in tenure, revenue, and satisfaction fields
 
-Ensuring correct data types for numeric and date columns
+- Ensuring correct data types for numeric and date columns
 
-Creating calculated fields for churn rate, retention rate, and average tenure
+- Creating calculated fields for churn rate, retention rate, and average tenure
 
 **Data Modeling**
 
@@ -67,105 +67,104 @@ Fact Table: Customer transactions and churn status
 
 Dimension Tables:
 
-Customer demographics
+- Customer demographics
 
-Subscription plans
+- Subscription plans
 
-Devices
+- Devices
 
-Geography (State)
+- Geography (State)
 
-Time
+- Time
 
 **Key Measures Created**
 
-Total Revenue
+- Total Revenue
 
-Total Purchases
+- Total Purchases
 
-Churn Rate
+- Churn Rate
 
-Retention Rate
+- Retention Rate
 
-Average Tenure (Months)
+- Average Tenure (Months)
 
-Average Satisfaction Rate
+- Average Satisfaction Rate
 
 **Key Questions Addressed**
 
-What percentage of customers are churning versus retained?
+- What percentage of customers are churning versus retained?
 
-What are the major reasons customers churn?
+- What are the major reasons customers churn?
 
-Which subscription plans are most and least preferred?
+- Which subscription plans are most and least preferred?
 
-Which devices generate the highest purchases?
+- Which devices generate the highest purchases?
 
-How does churn vary by gender and region?
+- How does churn vary by gender and region?
 
-Which states contribute the most revenue?
+- Which states contribute the most revenue?
 
 **Dashboard Overview**
 
 **Churn Insight & Customer Behavior**
 
 This dashboard highlights:
-
 Overall churn and retention distribution
 
 Customer churn reasons such as:
 
-High call tariffs
+- High call tariffs
 
-Poor network quality
+- Poor network quality
 
-Poor customer service
+- Poor customer service
 
-Costly data plans
+- Costly data plans
 
-Churn analysis by gender
+- Churn analysis by gender
 
-Customer trend analysis over time
+- Customer trend analysis over time
 
 **Subscription & Geographic Performance**
 
 This dashboard focuses on:
 
-Revenue distribution across Nigerian states
+- Revenue distribution across Nigerian states
 
-Customer feedback ratings
+- Customer feedback ratings
 
-Most and least preferred subscription plans
+- Most and least preferred subscription plans
 
-Top purchasing devices (Mobile SIM Card, 5G Router, Broadband MiFi)
+- Top purchasing devices (Mobile SIM Card, 5G Router, Broadband MiFi)
 
-Comparison of churned vs retained customers
+- Comparison of churned vs retained customers
 
 **Key Insights**
 
-29% of customers churned, while 71% were retained, indicating moderate churn risk
+- 29% of customers churned, while 71% were retained, indicating moderate churn risk
 
-High call tariffs and poor network quality were the leading drivers of churn
+- High call tariffs and poor network quality were the leading drivers of churn
 
-Female customers showed slightly higher churn than male customers
+- Female customers showed slightly higher churn than male customers
 
-Mobile SIM cards and 5G routers drove the highest purchase volume
+- Mobile SIM cards and 5G routers drove the highest purchase volume
 
-Certain states significantly outperformed others in total revenue contribution
+- Certain states significantly outperformed others in total revenue contribution
 
-Subscription preference varied widely, suggesting the need for targeted offerings
+- Subscription preference varied widely, suggesting the need for targeted offerings
 
 **Business Recommendations**
 
-Review and optimize pricing strategies to address high call tariff concerns
+- Review and optimize pricing strategies to address high call tariff concerns
 
-Improve network coverage and service quality in high-churn regions
+- Improve network coverage and service quality in high-churn regions
 
-Introduce targeted loyalty and retention programs for at-risk customers
+- Introduce targeted loyalty and retention programs for at-risk customers
 
-Promote high-performing subscription plans and devices more aggressively
+- Promote high-performing subscription plans and devices more aggressively
 
-Use regional performance insights to guide infrastructure investment
+- Use regional performance insights to guide infrastructure investment
 
 **Conclusion**
 
@@ -173,12 +172,12 @@ This analysis provides MTN with a data-driven understanding of customer churn, s
 
 By leveraging these insights, MTN can:
 
-Reduce churn
+- Reduce churn
 
-Improve customer satisfaction
+- Improve customer satisfaction
 
-Strengthen subscription adoption
+- Strengthen subscription adoption
 
-Drive sustainable revenue growth
+- Drive sustainable revenue growth
 
 The dashboards offer stakeholders an interactive tool to monitor performance and support strategic decision-making.
