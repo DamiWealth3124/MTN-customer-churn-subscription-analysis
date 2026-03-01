@@ -1,2 +1,2 @@
 
-![Power Query Editor](dashboard/data_after_cleaning.png)
+!(images/MTN_dataset_cleaning.png)
