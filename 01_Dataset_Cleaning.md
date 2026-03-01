@@ -1,2 +1,1 @@
-
-!(images/MTN_dataset_cleaning.png)
+(images/MTN_dataset_cleaning.png)
